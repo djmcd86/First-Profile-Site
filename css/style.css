@@ -1,0 +1,57 @@
+.navigation {
+    background-color: #df2913;
+    color: #f9e9c9;
+  }
+.navlinks a {
+  color: #f9e9c9 !important;
+}
+.title {
+    background-image: url("../images/lake_hart.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(54, 48, 47);
+    padding-top: 200px;
+    padding-bottom: 100px;
+    color: #fafafa;
+}
+.services {
+    padding-top: 50px;
+    padding-bottom: 200px;
+    padding-left: 50px;
+}
+.portfolio {
+    background-color:rgb(54, 48, 47);
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 100px;
+    color: #f9e9c9;
+}
+
+.contact {
+    background-color:rgb(54, 48, 47);
+    color: #f9e9c9;
+}
+
+.image {
+    padding: 15px;
+}
+.copy {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+.profile {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.form-control {
+  width: 100%;
+  border-radius: 3px;
+}
+textarea.form-control {
+    height: 100px;
+}
+.btn-xl {
+  border-radius: 3px;
+  background-color: #df2913;
+  border: 3px;
+}
